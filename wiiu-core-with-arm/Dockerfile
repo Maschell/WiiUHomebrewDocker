@@ -1,4 +1,4 @@
-FROM wiiulegacy/core:latest
+FROM wiiulegacy/core:0.1
 
 MAINTAINER Maschell <maschell@gmx.de>
 
